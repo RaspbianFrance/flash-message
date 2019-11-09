@@ -5,7 +5,7 @@ Totaly framework and template agnostic.
 # Install
 To install this package
 ```
-composer require ajani\flash-message
+composer require ajani/flash-message
 ```
 
 # Usage
