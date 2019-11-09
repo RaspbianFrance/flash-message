@@ -1,0 +1,21 @@
+{
+    "name": "ajani/flash-message",
+    "description": "A simple package to allow usage of flash messages using session.",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "osaajani",
+            "email": "plebwebsas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "FlashMessage": "src/"
+        }
+    }
+}
